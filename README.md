@@ -1,4 +1,5 @@
 # part-1-neural-network-analysis
+Dataset: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 Domain: Telecom - Customer Churn Prediction
 Overview
 This project builds a neural network to predict whether a telecom customer will churn or stay. The model is trained on structured customer data with 16 features and uses TensorFlow and Keras.
